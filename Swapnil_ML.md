@@ -1,4 +1,5 @@
 # Python
+```
 - Datatypes
   1. Strings
   2. Tuples
@@ -16,7 +17,7 @@
 - Functions
 - Object Oriented Programming
 - Exception Handling
-
+```
 
 # Machine Learning Topics
 ```
