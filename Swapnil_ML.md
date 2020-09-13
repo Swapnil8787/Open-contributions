@@ -31,8 +31,8 @@ Boosting ALgorithms
 Bias-Variance
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
 ```
+
 # Deep Learning Topics
-```
 ```
 Backpropagation
 ConvNet
@@ -44,7 +44,6 @@ Optimization (adam, RMS, RMSProp)
 ```
 
 # Open-Cv Topics
-```
 ```
 Read, Write, Show Videos from Camera in OpenCV
 Draw geometric shapes on images
